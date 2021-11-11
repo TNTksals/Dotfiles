@@ -117,4 +117,4 @@ if ! shopt -oq posix; then
 fi
 source /opt/ros/noetic/setup.bash
 source /home/kslas/catkin_ws/devel/setup.bash
-source /home/kslas/test_package/devel/setup.bash
+source /home/kslas/test/devel/setup.bash
