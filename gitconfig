@@ -6,5 +6,5 @@
 	last = log -1 HEAD
 	
 [core]
-	excludesfile = /home/kslas/.gitignore_global
+	excludesfile = /home/ksals/.gitignore_global
 
